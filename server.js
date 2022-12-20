@@ -46,6 +46,12 @@ The base value is index 0 and the difference between the two indexes is the offs
 
 `))
 
+bot.hears('arunit', (ctx) => ctx.reply(`
+
+kya bete kya haal hai!
+
+`))
+
 // MORE HEARS WILL BE ADDED SOON FOR DSA TOPICS
 
 
